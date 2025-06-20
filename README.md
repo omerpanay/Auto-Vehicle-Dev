@@ -141,7 +141,7 @@ Each module has its own Jupyter notebook for training, evaluation, and visualiza
 **Results:**
 
 ![Lane Detection Result](Lane%20Det/result.png)
-*Sample output of lane segmentation.*
+*output of lane segmentation.*
 
 ![Lane Detection Confusion Matrix](Lane%20Det/confusion_matrix_normalized.png)
 *Normalized confusion matrix for lane segmentation model.*
@@ -155,7 +155,7 @@ Each module has its own Jupyter notebook for training, evaluation, and visualiza
 **Results:**
 
 ![Road Segmentation Result](Road%20Segmentation/results.png)
-*Sample output of road segmentation.*
+*output of road segmentation.*
 
 ![Road Segmentation Confusion Matrix](Road%20Segmentation/conf_matrix_norm.png)
 *Normalized confusion matrix for road segmentation model.*
@@ -178,7 +178,7 @@ Each module has its own Jupyter notebook for training, evaluation, and visualiza
 **Results:**
 
 ![Traffic Sign Detection Result](Traffic%20Sign/results.png)
-*Sample output of traffic sign detection.*
+*output of traffic sign detection.*
 
 ![Traffic Sign Confusion Matrix](Traffic%20Sign/conf_matrix_norm.png)
 *Normalized confusion matrix for traffic sign detection.*
@@ -195,7 +195,7 @@ Each module has its own Jupyter notebook for training, evaluation, and visualiza
 **Results:**
 
 ![Traffic Light Detection Result](Traffic%20Light/results.png)
-*Sample output of traffic light detection.*
+*output of traffic light detection.*
 
 ![Traffic Light Confusion Matrix](Traffic%20Light/conf_matrix_norm.png)
 *Normalized confusion matrix for traffic light detection.*
@@ -206,12 +206,10 @@ Each module has its own Jupyter notebook for training, evaluation, and visualiza
 ---
 
 ## Model and Video Files
-- **Model Files (.pt):** Not included in the repository. Download from [MODEL_LINK].
-- **Output Video:** Not included due to size. Download from [VIDEO_LINK].
+- **Model Files (.pt):** Not included in the repository. Download from [https://drive.google.com/drive/folders/1WnN1khMFUZvGs2huXPGwB-RgITNsT6x8?usp=sharing].
+- **Output Video:** Not included due to size. Download from [https://drive.google.com/file/d/1kjLw8CYi9w-BCvs8nGK25XrdhimGQwLF/view?usp=sharing].
 
-> Replace `[MODEL_LINK]` and `[VIDEO_LINK]` with your own cloud storage links.
 
----
 
 ## Dataset
 - **Note:** The dataset used in this project could not be uploaded to GitHub due to its large size. However, it was previously shared via email.
