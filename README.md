@@ -240,7 +240,7 @@ MIT License
 
 
 ## TEAM MEMBERS
-Ömer Panay
-Zeynep Hanife Çelikoğlu
-Ramazan Ediz
+1. Ömer Panay
+2. Zeynep Hanife Çelikoğlu
+3. Ramazan Ediz
 
