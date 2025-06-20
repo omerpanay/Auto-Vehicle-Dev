@@ -1,0 +1,27 @@
+# Ignore model weights and large video files
+*.pt
+*.pth
+*.mp4
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment and dependency files
+.env
+.venv
+ENV/
+venv/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log 
