@@ -106,7 +106,7 @@ Autonom-Car-Dev/
 ## Usage
 
 ### 1. Download Model Files
-Model files (`.pt`) are not included in this repository due to their size. Download them from [MODEL_LINK] and place them in the `execute models/` directory:
+Model files (`.pt`) are not included in this repository due to their size. Download them from below and place them in the `execute models/` directory:
 - lane_segmentation.pt
 - person_and_car_detection.pt
 - road_segmentation.pt
@@ -237,4 +237,10 @@ Each module directory contains:
 
 ## License
 MIT License
+
+
+## TEAM MEMBERS
+Ömer Panay
+Zeynep Hanife Çelikoğlu
+Ramazan Ediz
 
